@@ -1,6 +1,6 @@
-# composition_api_nostyles
+# Fake trello
 
-## Project setup
+## The aim of the project is to create a fake version of trello in Vue.js
 ```
 npm install
 ```
