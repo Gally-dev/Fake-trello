@@ -1,6 +1,6 @@
 # Fake trello
 
-## The aim of the project is to create ** [a fake version of trello] (https://fake-trello.netlify.app/) ** in Vue.js
+## The aim of the project is to create ** [a fake version of trello](https://fake-trello.netlify.app/) ** in Vue.js
 ```
 npm install
 ```
