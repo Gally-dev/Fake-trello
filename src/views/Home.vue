@@ -63,6 +63,7 @@ export default {
       window.eventBus.on('delete-card', (e)=>{ // data poslane z cardPopup.vue
         deleteCard(e, state)
       })
+      //skuska gitu
      
     });
 
