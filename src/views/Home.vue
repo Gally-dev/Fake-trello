@@ -86,6 +86,7 @@ div {
   justify-content: center;
   margin: 0 auto;
   flex-wrap: wrap;
+  align-items: flex-start;
 }
 #overlay{
   background: rgba(17, 17, 17, 0.747);
